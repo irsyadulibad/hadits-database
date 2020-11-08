@@ -14,6 +14,7 @@ File sql Hadits terjemahan Indonesia, sumber [https://carihadis.com]
 ### Hadits yang tersedia
 Berikut daftar hadits yang tersedia dalam file sql (berdasarkan kitab)
 
+* Musnad Ahmad (26.363 hadits)
 * Musnad Syafi'i (1.800 hadits)
 * Riyadhus Shalihin (372)
 * Riyadhus Shalihin Arab (850)
