@@ -17,6 +17,8 @@ Berikut daftar hadits yang tersedia dalam file sql (berdasarkan kitab)
 * Shahih Bukhari (7.008 hadits)
 * Shahih Muslim (5.362 hadits)
 * Sunan Abu Daud (4.590 hadits)
+* Sunan Ibnu Majah (4.332 hadits)
+* Sunan Nasa'i (5.662 hadits)
 * Sunan Tirmidzi (3.891 hadits)
 
 <br/>
