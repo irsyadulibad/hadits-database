@@ -28,6 +28,7 @@ Berikut daftar hadits yang tersedia dalam file sql (berdasarkan kitab)
 -   Sunan Nasa'i (5.662 hadits)
 -   Sunan Tirmidzi (3.891 hadits)
 -   Muwatho' Malik (1.594 hadits)
+-   Musnad Darimi (3367 hadits)
 
 <br/>
 
